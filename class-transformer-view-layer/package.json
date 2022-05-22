@@ -1,4 +1,8 @@
 {
+  "name": "class-transformer-view-layer",
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "scripts": {
     "prebuild": "npm i",
     "build": "npx tsc",

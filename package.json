@@ -1,0 +1,10 @@
+{
+  "name": "khonhuacode",
+  "scripts": {
+    "clstrans:viewLayer": "npm start --workspace class-transformer-view-layer",
+    "clstrans:viewLayer:call": "npm run callApi --workspace class-transformer-view-layer"
+  },
+  "workspaces": [
+    "class-transformer-view-layer"
+  ]
+}
